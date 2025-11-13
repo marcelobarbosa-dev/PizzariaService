@@ -1,0 +1,13 @@
+Sabores:
+Portuguesa
+Frango com Catupiry
+Mussarela
+Calabresa
+
+PedidosAbertos:
+Pedido{numero=4, cliente='Cliente VIP', sabor='Frango com Catupiry', tamanho=G, valor=60.0, tempoPreparo=10}
+Pedido{numero=3, cliente='João Silva', sabor='Portuguesa', tamanho=G, valor=50.0, tempoPreparo=25}
+Pedido{numero=2, cliente='Maria Souza', sabor='Mussarela', tamanho=M, valor=30.0, tempoPreparo=15}
+
+VendasPorSabor:
+Calabresa: 2
